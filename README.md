@@ -11,7 +11,4 @@
 
 
 ## MOBILE APP INTERFACE
-![image](https://github.com/user-attachments/assets/d5cf7b38-a80b-4e51-b361-24678a05e63f)
-![image](https://github.com/user-attachments/assets/47dbae4a-495a-4281-a8e6-c05bcd5d98d6)
-![image](https://github.com/user-attachments/assets/4528e687-e7a1-4b00-bfc8-efb9649a55df)
-![image](https://github.com/user-attachments/assets/7e81852f-2bce-4a9e-bf70-c6ed9263c157)
+![TerraLife](https://github.com/user-attachments/assets/f6a9d64e-fa00-439b-b79b-533426aae59e)
